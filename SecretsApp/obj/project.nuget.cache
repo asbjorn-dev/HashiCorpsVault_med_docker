@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GIZ4PqeIvoNea+V4lC73bUJ2d+IjbS1XaUbEzAFVaWckOISfxCO94Ovue+3GwEo2wxppOt+hpSSGh0cAS8IveQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asbjørn\\Desktop\\hemmelig\\SecretsApp\\SecretsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asbjørn\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Asbjørn\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\Asbjørn\\.nuget\\packages\\vaultsharp\\1.13.0.1\\vaultsharp.1.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
